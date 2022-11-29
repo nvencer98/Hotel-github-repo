@@ -23,6 +23,5 @@
 - command + c - copy
 - command + v - paste
 - command + x - cut
-- command +
-- command +
-- command +
+- command + z - undo
+- command + r - refresh
